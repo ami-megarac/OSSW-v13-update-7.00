@@ -1,1 +1,1 @@
-version = 6.3
+version = 1.60+git20181103.0eebece-1

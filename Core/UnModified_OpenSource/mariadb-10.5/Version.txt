@@ -1,1 +1,1 @@
-version = 10.5.21-0+deb11u1
+version = 10.5.23-0+deb11u1
